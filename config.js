@@ -5,15 +5,15 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['5493874066687', '👑 Mystic - Creador 👑', true],
+  ['5493874066687', '👑 Metrix - Creador 👑', true],
 ] 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['5493874066687'] 
+global.prems = ['5493874066687'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '@metex_lol'
+global.wm = 'MetrixBot'
+global.igfg = 'MetrixBot'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
